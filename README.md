@@ -1,7 +1,10 @@
 <div align="left">
   <img src="https://media.istockphoto.com/id/1291641896/es/foto/c%C3%B3digo-del-programa-en-la-pantalla-del-ordenador-en-la-lupa-primer-plano.jpg?s=1024x1024&w=is&k=20&c=aTAmXplvMajcojgn90BaNl02HsabMEgfd2mmVWzn304="  />
-  <img width="5" />
-  <img higth="5" />
+  img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
 </div>
 
 
@@ -31,8 +34,6 @@ About me
 
 ## Tech and Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=jira" height="30" alt="jira logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
