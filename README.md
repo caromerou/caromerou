@@ -1,5 +1,6 @@
 <div align="left">
-  <video>https://cdn.pixabay.com/video/2019/09/26/27239-362518579_large.mp4</video>
+  <video src="https://cdn.pixabay.com/video/2019/09/26/27239-362518579_large.mp4" controls></video>
+  
 </div>
 
 
