@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://www.istockphoto.com/es/foto/pantalla-real-python-c%C3%B3digo-en-desarrollo-concepto-de-algoritmo-resumen-de-flujo-de-gm1040410788-278525489"  />
+  <img src="https://media.istockphoto.com/id/1291641896/es/foto/c%C3%B3digo-del-programa-en-la-pantalla-del-ordenador-en-la-lupa-primer-plano.jpg?s=1024x1024&w=is&k=20&c=aTAmXplvMajcojgn90BaNl02HsabMEgfd2mmVWzn304="  />
   <img width="12" />
 </div>
 
