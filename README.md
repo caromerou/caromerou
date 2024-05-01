@@ -11,11 +11,13 @@ Hello 👋 I`m Carolina welcome
 About me
 
 <div align="left">
+
+  
    <ol>
-      <lu>✔ I’m currently working on No country simulation</lu>
-      <lu>👌 I’m currently learning: Automatization, Machine learning, Artificial inteligence</lu>
-      <lu>👀 I’m looking to collaborate on projects that allow me to put my recently acquired skills into practice.</lu>
-      <lu>👀 I’m looking for help with improve my automation skills.</lu>
+      <li>✔ I’m currently working on No country simulation</li>
+      <li>👌 I’m currently learning: Automatization, Machine learning, Artificial inteligence</li>
+      <li>👀 I’m looking to collaborate on projects that allow me to put my recently acquired skills into practice.</li>
+      <li>👀 I’m looking for help with improve my automation skills.</li>
       <br>
      📫 How to reach me:  
      https://www.linkedin.com/in/carolina-romero-8745211a4/
