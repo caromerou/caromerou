@@ -1,7 +1,7 @@
 <div align="left">
   <img src="https://media.istockphoto.com/id/1291641896/es/foto/c%C3%B3digo-del-programa-en-la-pantalla-del-ordenador-en-la-lupa-primer-plano.jpg?s=1024x1024&w=is&k=20&c=aTAmXplvMajcojgn90BaNl02HsabMEgfd2mmVWzn304="  />
-  <img width="10" />
-  <img higth="10" />
+  <img width="1000" />
+  <img higth="1000" />
 </div>
 
 
@@ -39,7 +39,7 @@ About me
 <div align="left">
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
 </div>
 
