@@ -9,20 +9,25 @@ Hello 👋 I`m Carolina welcome
 
 
 About me
-<li>
- 🔭 I’m currently working on No country simulation 
- 🌱 I’m currently learning: Automatization, Machine learning, Artificial inteligence
- 👯 I’m looking to collaborate on projects that allow me to put my recently acquired skills into practice.
- 🤔 I’m looking for help with improve my automation skills.
+<lu>
+ ✔ I’m currently working on No country simulation 
+ 👌 I’m currently learning: Automatization, Machine learning, Artificial inteligence
+ 👀 I’m looking to collaborate on projects that allow me to put my recently acquired skills into practice.
+ 👀 I’m looking for help with improve my automation skills.
  📫 How to reach me:  
     https://www.linkedin.com/in/carolina-romero-8745211a4/
     email: 
     caromeroulloa@hotmail.com
-<li/>
+<lu/>
 </div>
 
 
 ## Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="express logo"  />
+  <img width="12" />
+</div>
+
 ## Tech and Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -36,4 +41,8 @@ About me
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
 
