@@ -1,6 +1,5 @@
 
-
-<img src="https://media1.tenor.com/m/w2WYZuHWZw0AAAAC/coded-data.gif" alt="Texto alternativo" style="width: 1150px; height: 100px;"/>
+<img src="https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif" style="width: 1150px; height: 300px;"/>
 
 
 # 👋 I`m Carolina welcome!!!
@@ -24,6 +23,9 @@
      caromeroulloa@hotmail.com
   <ul/>
 </div>
+
+<img src="https://media1.tenor.com/m/w2WYZuHWZw0AAAAC/coded-data.gif" alt="Texto alternativo" style="width: 1150px; height: 100px;"/>
+
 
 My experience
 
