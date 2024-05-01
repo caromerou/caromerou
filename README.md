@@ -1,12 +1,12 @@
-![código](https://media1.tenor.com/m/w2WYZuHWZw0AAAAC/coded-data.gif)
-
-<img src="https://media1.tenor.com/m/w2WYZuHWZw0AAAAC/coded-data.gif" alt="Texto alternativo" style="width: 600px; height: auto;"/>
 
 
+<img src="https://media1.tenor.com/m/w2WYZuHWZw0AAAAC/coded-data.gif" alt="Texto alternativo" style="width: 1150px; height: 100px;"/>
 
 
 
-Hello 👋 I`m Carolina welcome
+
+
+<h6>Hello 👋 I`m Carolina welcome </h6>
 
 
 
@@ -15,7 +15,7 @@ About me
 <div align="left">
 
   
-   <ol>
+   <ul>
       <li>✔ I’m currently working on No country simulation</li>
       <li>👌 I’m currently learning: Automatization, Machine learning, Artificial inteligence</li>
       <li>👀 I’m looking to collaborate on projects that allow me to put my recently acquired skills into practice.</li>
@@ -26,7 +26,7 @@ About me
      <br>
      email: 
      caromeroulloa@hotmail.com
-  <ol/>
+  <ul/>
 </div>
 
 
