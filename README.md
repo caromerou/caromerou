@@ -1,5 +1,6 @@
 ![código](https://media1.tenor.com/m/w2WYZuHWZw0AAAAC/coded-data.gif)
 
+<img src="https://media1.tenor.com/m/w2WYZuHWZw0AAAAC/coded-data.gif" alt="Texto alternativo" style="width: 600px; height: auto;"/>
 
 
 
