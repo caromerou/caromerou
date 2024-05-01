@@ -1,9 +1,8 @@
 
 
-<video autoplay muted loop style="width: 100%; height: auto;">
-  <source src="https://cdn.pixabay.com/video/2019/09/26/27239-362518579_large.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <iframe width="560" height="315" src="https://cdn.pixabay.com/video/2019/09/26/27239-362518579_large.mp4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 
