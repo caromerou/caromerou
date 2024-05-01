@@ -29,27 +29,17 @@ About me
 </div>
 
 
-## Frameworks
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="express logo"  />
-  <img width="12" />
-</div>
-
 ## Tech and Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=jira" height="30" alt="jira logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="express logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-</div>
-
-## Other Tech
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img width="12" />
 </div>
+
+
 
