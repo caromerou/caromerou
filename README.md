@@ -1,3 +1,9 @@
+<div align="left">
+  <img src="https://www.istockphoto.com/es/foto/pantalla-real-python-c%C3%B3digo-en-desarrollo-concepto-de-algoritmo-resumen-de-flujo-de-gm1040410788-278525489"  />
+  <img width="12" />
+</div>
+
+
 Hello 👋 I`m Carolina welcome
 
 
