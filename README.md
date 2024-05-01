@@ -9,7 +9,7 @@ Hello 👋 I`m Carolina welcome
 
 
 About me
-
+<li>
  🔭 I’m currently working on No country simulation 
  🌱 I’m currently learning: Automatization, Machine learning, Artificial inteligence
  👯 I’m looking to collaborate on projects that allow me to put my recently acquired skills into practice.
@@ -18,7 +18,7 @@ About me
     https://www.linkedin.com/in/carolina-romero-8745211a4/
     email: 
     caromeroulloa@hotmail.com
-
+<li/>
 </div>
 
 
