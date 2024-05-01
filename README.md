@@ -1,9 +1,9 @@
 <div>
 
-     <video width="560" height="315" controls>
-         <source src="https://cdn.pixabay.com/video/2019/09/26/27239-362518579_large.mp4" type="video/mp4">
-         Tu navegador no admite el elemento de video.
-    </video>
+      <video width="560" height="315" controls>
+          <source src="https://cdn.pixabay.com/video/2019/09/26/27239-362518579_large.mp4" type="video/mp4">
+           Tu navegador no admite el elemento de video.
+      </video>
 </div>
 
 
