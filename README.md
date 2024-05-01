@@ -6,11 +6,6 @@
 # 👋 I`m Carolina welcome!!!
 
 
-
-
-
-
-
 ### About me
 
 <div align="left">
@@ -30,6 +25,11 @@
   <ul/>
 </div>
 
+My experience
+
+My experience as a QA has allowed me to develop a meticulous and detailed mindset, as well as strong problem identification and resolution skills. 
+I have worked on software development projects where I have collaborated closely with multidisciplinary teams to ensure the quality and functionality of the final products. 
+My goal is to continue growing professionally in the field of technology, contributing with my diverse experiences to the success of the projects and teams in which I work.
 
 ## Tech and Tools
 <div align="left">
