@@ -1,17 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Video Banner</title>
-</head>
-<body>
+
 
 <video autoplay muted loop style="width: 100%; height: auto;">
   <source src="https://cdn.pixabay.com/video/2019/09/26/27239-362518579_large.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-</body>
-</html>
+
 
 
 Hello 👋 I`m Carolina welcome
