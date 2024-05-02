@@ -17,7 +17,7 @@
       <li> I’m looking for help with improve my automation skills.👀</li>
       <br>
      📫 How to reach me:  
-     https://www.linkedin.com/in/carolina-romero-8745211a4/
+     https://www.linkedin.com/in/carolina-romerou
      <br>
      email: 
      caromeroulloa@hotmail.com
