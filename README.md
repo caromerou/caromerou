@@ -21,6 +21,10 @@
      <br>
      email: 
      caromeroulloa@hotmail.com
+     <br>
+     Descarga mi Hoja de vida aquì 
+     (https://drive.google.com/file/d/1yQEWaFIgHe7riTfiY-0hKvaXG9_s02Wy/view?usp=drive_link)
+
   <ul/>
 </div>
 
