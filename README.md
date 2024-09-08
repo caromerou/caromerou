@@ -46,5 +46,7 @@ My goal is to continue growing professionally in the field of technology, contri
   <img width="12" />
 </div>
 
+Proyerctos Colaborativos en los que he participado: <br>
+https://github.com/No-Country-simulation/s16-21-n-data-bi ---- Maravilloso proyecto sobre el impacto del covid en latinoamerica <br>
 
 
