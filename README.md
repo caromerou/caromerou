@@ -11,7 +11,7 @@
 
   
    <ul>
-      <li> I’m currently working on No country simulation ✔</li>
+      <li> I’m currently working on SgTech ✔</li>
       <li> I’m currently learning: Automatization, Machine learning, Artificial inteligence 👌</li>
       <li> I’m looking to collaborate on projects that allow me to put my recently acquired skills into practice.👀</li>
       <li> I’m looking for help with improve my automation skills.👀</li>
