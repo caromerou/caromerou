@@ -11,7 +11,8 @@
 
   
    <ul>
-      <li> I’m currently working on SgTech ✔</li>
+      <li> My last project was with the Runt, it was an extremely enriching experience, since it allowed me to be part of a solid company with a specific niche that constantly 
+            challenged me to learn and improve my skills. ✔</li>
       <li> I’m currently learning: Automatization, Machine learning, Artificial inteligence 👌</li>
       <li> I’m looking to collaborate on projects that allow me to put my recently acquired skills into practice.👀</li>
       <li> I’m looking for help with improve my automation skills.👀</li>
@@ -22,8 +23,7 @@
      email: 
      caromeroulloa@hotmail.com
      <br>
-     Descarga mi Hoja de vida aquì 
-     (https://drive.google.com/file/d/1DFfmsxnWN01ov03oK9dMjVjWovq-5ZRs/view?usp=sharing)
+     
   <ul/>
 </div>
 
