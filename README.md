@@ -10,13 +10,21 @@
 <div align="left">
 
   
-   <ul>
-      <li> My last project was with the Runt, it was an extremely enriching experience, since it allowed me to be part of a solid company with a specific niche that constantly 
-            challenged me to learn and improve my skills. ✔</li>
-      <li> I’m currently learning: Automatization, Machine learning, Artificial inteligence 👌</li>
-      <li> I’m looking to collaborate on projects that allow me to put my recently acquired skills into practice.👀</li>
-      <li> I’m looking for help with improve my automation skills.👀</li>
-      <br>
+   # About Me
+I am a QA Engineer and Functional Analyst with over 2.5 years of professional experience, currently transitioning into **QA Automation, AI-driven testing, and Machine Learning**. I specialize in bridging the gap between complex business requirements and robust software development.
+
+My journey is defined by a deep commitment to quality and a constant drive to modernize testing processes through technology.
+
+### Expertise & Skills
+* **QA & Functional Analysis:** Requirements gathering, UML modeling, manual testing, and API testing.
+* **Automation & Tech:** Developing AI agents for QA, Python-based automation, and scripting.
+* **Operations:** IT Support specialization, cross-functional team collaboration, and technical documentation.
+* **Mindset:** Meticulous, problem-solver, and result-oriented.
+
+### Focus
+I am actively seeking opportunities to integrate my experience in financial/banking systems with modern automation stacks (AI/ML) to deliver high-impact testing solutions.
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/carolina-romerou) | caromeroulloa@hotmail.com
      📫 How to reach me:  
      https://www.linkedin.com/in/carolina-romerou
      <br>
@@ -29,12 +37,6 @@
 
 <img src="https://media1.tenor.com/m/w2WYZuHWZw0AAAAC/coded-data.gif" alt="Texto alternativo" style="width: 1150px; height: 100px;"/>
 
-
-My experience
-
-My experience as a QA has allowed me to develop a meticulous and detailed mindset, as well as strong problem identification and resolution skills. 
-I have worked on software development projects where I have collaborated closely with multidisciplinary teams to ensure the quality and functionality of the final products. 
-My goal is to continue growing professionally in the field of technology, contributing with my diverse experiences to the success of the projects and teams in which I work.
 
 ## Tech and Tools
 <div align="left">
