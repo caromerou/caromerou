@@ -17,7 +17,7 @@
 
 ---
 
-#### 📌 Ab
+#### 📌 
 Bogotá, Colombia 
 📍 | Transitioning from a strong QA & Functional Analysis background into Business Analysis and Product Ownership. I specialize in translating complex business requirements into clear user stories, process models, and robust technical solutions.  
 *Bogotá, Colombia 
