@@ -5,7 +5,7 @@
 # 👋 I`m Carolina welcome!!!
 
 
-### About me
+
 
 <div align="left">
 
@@ -17,9 +17,12 @@
 
 ---
 
-#### 📌 About Me
-Bogotá, Colombia 📍 | Transitioning from a strong QA & Functional Analysis background into Business Analysis and Product Ownership. I specialize in translating complex business requirements into clear user stories, process models, and robust technical solutions.  
-*Bogotá, Colombia 📍 | Transicionando desde una sólida base en QA y Análisis Funcional hacia Análisis de Negocio y Product Ownership. Me especializo en traducir requerimientos de negocio complejos en historias de usuario claras, modelos de procesos y soluciones técnicas robustas.*
+#### 📌 Ab
+Bogotá, Colombia 
+📍 | Transitioning from a strong QA & Functional Analysis background into Business Analysis and Product Ownership. I specialize in translating complex business requirements into clear user stories, process models, and robust technical solutions.  
+*Bogotá, Colombia 
+
+📍 | Transicionando desde una sólida base en QA y Análisis Funcional hacia Análisis de Negocio y Product Ownership. Me especializo en traducir requerimientos de negocio complejos en historias de usuario claras, modelos de procesos y soluciones técnicas robustas.*
 
 ---
 
