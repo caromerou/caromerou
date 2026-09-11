@@ -11,29 +11,46 @@
 
   
    # About Me
-I am a QA Engineer and Functional Analyst with over 2.5 years of professional experience, currently transitioning into **QA Automation, AI-driven testing, and Machine Learning**. I specialize in bridging the gap between complex business requirements and robust software development.
 
-My journey is defined by a deep commitment to quality and a constant drive to modernize testing processes through technology.
+### Business Analyst & Functional Analyst | Bridging business needs and technical solutions
+*Analista de Negocio y Funcional | Conectando necesidades de negocio y soluciones técnicas*
 
-### Expertise & Skills
-* **QA & Functional Analysis:** Requirements gathering, UML modeling, manual testing, and API testing.
-* **Automation & Tech:** Developing AI agents for QA, Python-based automation, and scripting.
-* **Operations:** IT Support specialization, cross-functional team collaboration, and technical documentation.
-* **Mindset:** Meticulous, problem-solver, and result-oriented.
+---
 
-### Focus
-I am actively seeking opportunities to integrate my experience in financial/banking systems with modern automation stacks (AI/ML) to deliver high-impact testing solutions.
+#### 📌 About Me
+Bogotá, Colombia 📍 | Transitioning from a strong QA & Functional Analysis background into Business Analysis and Product Ownership. I specialize in translating complex business requirements into clear user stories, process models, and robust technical solutions.  
+*Bogotá, Colombia 📍 | Transicionando desde una sólida base en QA y Análisis Funcional hacia Análisis de Negocio y Product Ownership. Me especializo en traducir requerimientos de negocio complejos en historias de usuario claras, modelos de procesos y soluciones técnicas robustas.*
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/carolina-romerou) | caromeroulloa@hotmail.com
-     📫 How to reach me:  
-     https://www.linkedin.com/in/carolina-romerou
-     <br>
-     email: 
-     caromeroulloa@hotmail.com
-     <br>
-     
-  <ul/>
-</div>
+---
+
+#### 🛠️ Expertise & Skills
+*   **Business Analysis:** Requirements gathering, Use Cases, User Stories, Acceptance Criteria, and Process Modeling (BPMN, UML, Lucidchart).  
+*   **Data & Technical Analysis:** SQL, Python, API testing, and translating data insights into business value.  
+*   **Collaboration & Management:** Jira, Azure DevOps, agile frameworks, and cross-functional team coordination.  
+*   **Mindset:** Analytical problem-solver, detail-oriented, and result-driven.  
+
+---
+
+#### 🎯 Focus
+Seeking opportunities as a Business Analyst or Product Owner to leverage my background in financial/banking systems and agile environments to deliver high-impact digital products.  
+*Buscando oportunidades como Business Analyst o Product Owner para aprovechar mi experiencia en sistemas financieros/bancarios y entornos ágiles para entregar productos digitales de alto impacto.*
+
+---
+
+#### 🚀 Proyectos Colaborativos
+*   **Viralyze (COVID-19 Impact in Latin America)**  
+    *   Análisis de datos y visualización sobre el impacto del COVID-19 en Latinoamérica.  
+    *   🔗 [Dashboard](https://bit.ly/Viralyze) | [Deploy App](https://viralyze.streamlit.app/) | [GitHub Repository](https://github.com/No-Country-simulation/s16-21-n-data-bi)  
+
+*   **Financial Fraud Detection System**  
+    *   Proyecto de análisis funcional y modelado enfocado en la detección de riesgos de fraude financiero.  
+    *   🔗 [Documentación y Recursos (Google Drive)](https://drive.google.com/drive/folders/1aI8Wh275k0A0Iyyy8Gnp3fx4B9tHXwLa?usp=sharing)  
+
+---
+
+#### 📫 Let's Connect
+*   **LinkedIn:** [carolina-romerou](https://www.linkedin.com/in/carolina-romerou)  
+*   **Email:** caromeroulloa@hotmail.com
 
 <img src="https://media1.tenor.com/m/w2WYZuHWZw0AAAAC/coded-data.gif" alt="Texto alternativo" style="width: 1150px; height: 100px;"/>
 
