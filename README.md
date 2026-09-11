@@ -1,6 +1,7 @@
 
-<img src="https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif" style="width: 1150px; height: 300px;"/>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tpdW1vaHF3YmZsNjBwcmJsd3p5dDF0eHl4N29hMnZ3ZzIybm9jdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LZ2WRdQu8udNPSZxbg/giphy.gif" width="600px">
+</p>
 
 # 👋 I`m Carolina welcome!!!
 
